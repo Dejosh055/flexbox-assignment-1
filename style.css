@@ -1,0 +1,127 @@
+*{
+margin: 0px;
+}
+body{
+    background: #b8b8e7;
+    text-wrap: wrap;
+}
+.items{
+background-color: #6565fa;
+display: flex;
+justify-content: space-around;
+font-size: 8px;
+width: 100%;
+color: #ffff;
+font-family: "Poppins";
+text-align: center;
+letter-spacing: 3px;
+font-weight: 5px;
+font-size: 8px;
+text-align: center;
+padding: 8px;
+font-family: "Poppins";
+text-wrap: wrap;
+}
+
+.main{
+background: #2020f8;
+display:flex;
+color: #ffff;
+justify-content:center;
+text-align: center;
+margin-top: 0px;
+padding:50px;
+height: 190px;
+font-family: "Poppins";
+text-wrap: wrap;
+}
+.nave{
+ display:block;
+color: #ffff;
+justify-content:center;
+text-align: left;
+width:50%;
+margin-top: 0px;
+margin-left: 20px;
+padding: 50px;
+font-size: 15px;
+font-family: "Poppins";
+text-wrap: wrap;
+}
+
+.heading{
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: left;
+    display: block;
+    justify-content:center;
+    width:50%;
+    font-family: "Poppins";
+    text-wrap: wrap;
+}
+img{
+    width: 250px;
+    margin-right: 60px;
+    margin-left: 0px;
+    height: 230px;
+    display: flex;
+    text-wrap: wrap;
+}
+.cont1{
+    font-size: 12px;
+    background: #2020f8;
+    border: 2px;
+    border-radius: 15px;
+    margin: 10px;
+    width: 210px;
+    height: 100px;
+    justify-content: left;
+    text-align:left;
+    padding: 10px;
+    text-wrap: wrap;
+
+}
+.cont2{
+    font-size: 12px;
+    justify-content: left;
+    background: #2020f8;
+    border: 2px;
+    border-radius: 15px;
+    margin: 10px;
+    width: 210px;
+    height: 100px;
+    text-align: left;
+    padding: 10px;
+    text-wrap: wrap;
+}
+.cont3{
+    font-size: 12px;
+    justify-content: left;
+    background: #2020f8;
+    border: 2px;
+    border-radius: 15px;
+    margin: 10px;
+    width: 210px;
+    height: 100px;
+    text-align: left;
+    padding: 10px;
+    text-wrap: wrap;
+}
+
+.contents{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    color: #fff;
+    font-family: "Poppins";
+    text-wrap: wrap;
+    
+}
+h1{
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    padding-left: 0px;
+    display: block;
+    text-wrap: wrap;
+}
